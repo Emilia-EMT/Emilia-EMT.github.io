@@ -1,12 +1,9 @@
-### Hi there 👋, I'm Livingbody.
+### Hi there 👋, I'm Emilia.
 
 <p align="center">
 <img align="center" src="https://i.328888.xyz/2023/02/24/7ZUFU.jpeg", width=1600>
 <p>
 
-
-- I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![163 邮箱](https://img.shields.io/badge/-find_livingbody@qq.com-c14438?style=plastic&link=mailto:livingbody@qq.com)](mailto:livingbody@qq.com)
-    [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/livingbody/nav/master/static/images/WeChat.jpg)
 
 
 - 🚀 I use daily:
